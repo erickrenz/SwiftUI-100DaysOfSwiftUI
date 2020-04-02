@@ -15,7 +15,7 @@ Tracking my progress of Hacking with Swift's [100 Days of SwiftUI](https://www.h
 ### Days 1-15: Review of Swift Programming Language
 These first 15 days which were considered an "introduction" to the Swift programming language. Since I am not new to Swift or SwiftUI, I allowed myself to complete multiple lessons each day to use these lessons as a review.
 
-#### [Day 1](https://www.hackingwithswift.com/100/swiftui/1) : First Steps in Swift *(April 2)*
+#### [Day 1](https://www.hackingwithswift.com/100/swiftui/1)  : First Steps in Swift *(April 2)*
 * Variables
 * Strings and Integers
 * Multi-Line Strings
@@ -24,7 +24,7 @@ These first 15 days which were considered an "introduction" to the Swift program
 * Constants
 * Type Annotations
 
-### [Day 2](https://www.hackingwithswift.com/100/swiftui/2) : Complex Data Types *(April 2)*
+#### [Day 2](https://www.hackingwithswift.com/100/swiftui/2)  : Complex Data Types *(April 2)*
 * Arrays
 * Sets
 * Tuples
@@ -34,3 +34,14 @@ These first 15 days which were considered an "introduction" to the Swift program
 * Enumerations
 * Enum Associated Values
 * Enum Raw Values
+
+#### [Day 3](https://www.hackingwithswift.com/100/swiftui/3)  : Operators and Conditions *(April 2)*
+* Arithmatic Operators
+* Operator Overloading
+* Compound Assignment Operators
+* Comparison Operators
+* Conditions
+* Combining Conditions
+* The Ternary Operator
+* Switch Statements
+* Range Operators
