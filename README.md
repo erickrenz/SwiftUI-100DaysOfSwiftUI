@@ -45,3 +45,12 @@ These first 15 days which were considered an "introduction" to the Swift program
 * The Ternary Operator
 * Switch Statements
 * Range Operators
+
+#### [Day 4](https://www.hackingwithswift.com/100/swiftui/4)  : Loops *(April 2)*
+* For Loops
+* While Loops
+* Repeat Loops
+* Exiting Loops
+* Exiting Multiple Loops
+* Skipping Items
+* Infinate Loops
