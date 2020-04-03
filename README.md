@@ -54,3 +54,14 @@ These first 15 days which were considered an "introduction" to the Swift program
 * Exiting Multiple Loops
 * Skipping Items
 * Infinate Loops
+
+#### [Day 5](https://www.hackingwithswift.com/100/swiftui/5)  : Functions *(April 3)*
+* Writing Functions
+* Accepting Parameters
+* Returning Values
+* Parameter Labels
+* Omitting Parameter Labels
+* Default Parameters
+* Variadic Functions
+* Throwing Functions
+* InOut Parameters
