@@ -65,3 +65,10 @@ These first 15 days which were considered an "introduction" to the Swift program
 * Variadic Functions
 * Throwing Functions
 * InOut Parameters
+
+#### [Day 6](https://www.hackingwithswift.com/100/swiftui/6)  : Closures Part 1 *(April 4)*
+* Creating Basic Closures
+* Accepting Parameters in a Closure
+* Returning Values from a Closure
+* Closures as Parameters
+* Trailing Closure Syntax
