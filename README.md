@@ -89,3 +89,10 @@ These first 15 days which were considered an "introduction" to the Swift program
 * Mutating Methods
 * Properties and Methods of Strings
 * Properties and Methods of Arrays
+
+#### [Day 9](https://www.hackingwithswift.com/100/swiftui/9)  : Structs, Part 2 *(April 6)*
+* Initalizers
+* Referring to Current Instance
+* Lazy Properties
+* Static Properties and Methods
+* Access Control
