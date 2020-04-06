@@ -80,3 +80,12 @@ These first 15 days which were considered an "introduction" to the Swift program
 * Closures with Multiple Parameters
 * Returning Closures from Functions
 * Capturing Values
+
+#### [Day 8](https://www.hackingwithswift.com/100/swiftui/8)  : Structs, Part 1 *(April 6)*
+* Creating your own Structs
+* Computed Properties
+* Property Observers
+* Methods
+* Mutating Methods
+* Properties and Methods of Strings
+* Properties and Methods of Arrays
