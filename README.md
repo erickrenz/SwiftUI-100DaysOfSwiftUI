@@ -96,3 +96,12 @@ These first 15 days which were considered an "introduction" to the Swift program
 * Lazy Properties
 * Static Properties and Methods
 * Access Control
+
+#### [Day 10](https://www.hackingwithswift.com/100/swiftui/10)  : Classes *(April 7)*
+* Creating your own classes
+* Class Inheritance
+* Overriding Methods
+* Final Classes
+* Copying Objects
+* Deinitalizers
+* Mutability
