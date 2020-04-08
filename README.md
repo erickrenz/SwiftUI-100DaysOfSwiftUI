@@ -112,3 +112,15 @@ These first 15 days which were considered an "introduction" to the Swift program
 * Extensions
 * Protocol Extensions
 * Protocol-Oriented Programming
+
+#### [Day 12](https://www.hackingwithswift.com/100/swiftui/12)  : Optionals *(April 8)*
+* Handling Missing Data
+* Unwrapping Optionals
+* Unwrapping with Guard
+* Force Unwrapping
+* Implicitly Wrapped Optionals
+* Nil Coalescing
+* Optional Chaining
+* Optional Try
+* Failable Initalizers
+* Typescaling
