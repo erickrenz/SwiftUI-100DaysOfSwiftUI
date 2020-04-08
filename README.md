@@ -105,3 +105,10 @@ These first 15 days which were considered an "introduction" to the Swift program
 * Copying Objects
 * Deinitalizers
 * Mutability
+
+#### [Day 11](https://www.hackingwithswift.com/100/swiftui/11)  : Protocols and Extensions *(April 8)*
+* Protocols
+* Protocol Inheritance
+* Extensions
+* Protocol Extensions
+* Protocol-Oriented Programming
