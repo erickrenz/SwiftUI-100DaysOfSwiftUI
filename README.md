@@ -126,3 +126,4 @@ These first 15 days which were considered an "introduction" to the Swift program
 * Typescaling
 
 #### [Day 13](https://www.hackingwithswift.com/100/swiftui/13)  : Swift Review, Part 1 *(April 9)*
+#### [Day 14](https://www.hackingwithswift.com/100/swiftui/14)  : Swift Review, Part 2 *(April 9)*
