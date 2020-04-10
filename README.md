@@ -133,6 +133,10 @@ These first 15 days which were considered an "introduction" to the Swift program
 Now that I have reviewed the Swift programming language, it is time to put my skills to the test while we build our first three simple apps in this program.
 
 #### [Day 16](https://www.hackingwithswift.com/100/swiftui/16)  : Project 1, Part 1 *(April 10)*
-* WeSplit Introduction
+* WeSplit: Introduction
 * Understanding the Basic Structure of a SwiftUI App
 * Creating a Form
+* Adding a Navigation Bar
+* Modifying Program State
+* Binding State to User Interface Controls
+* Creating Views in a Loop
