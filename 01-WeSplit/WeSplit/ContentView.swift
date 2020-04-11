@@ -9,35 +9,52 @@
 import SwiftUI
 
 struct ContentView: View {
-    @State private var tapCount = 0
-    @State private var name = ""
+    @State private var checkAmmount = ""
+    @State private var numberOfPeople = 2
+    @State private var tipPercentage = 2
     
-    let students = ["Harry", "Hermoine", "Ron"]
-    @State private var selectedStudent = "Harry"
+    let tipPercentages = [10, 15, 20, 25, 0]
+    
+    var totalPerPerson: Double {
+        let peopleCount = Double(numberOfPeople + 2)
+        let tipSelection = Double(tipPercentages[tipPercentage])
+        let orderAmmount = Double(checkAmmount) ?? 0
+        
+        let tipValue = orderAmmount / 100 * tipSelection
+        let grandTotal = orderAmmount + tipValue
+        let amountPerPerson = grandTotal / peopleCount
+        
+        return amountPerPerson
+    }
     
     var body: some View {
         NavigationView {
             Form {
                 Section {
-                    Text("Hello, World!")
+                    TextField("Ammount", text: $checkAmmount)
+                        .keyboardType(.decimalPad)
+                    
+                    Picker("Number of People", selection: $numberOfPeople) {
+                        ForEach(2 ..< 100) {
+                            Text("\($0) people")
+                        }
+                    }
                 }
-            
-                Button("Tap Count: \(tapCount)") {
-                    self.tapCount += 1
+                
+                Section(header: Text("How much tip do you want to leave?")) {
+                    Picker("Tip Percentage", selection: $tipPercentage) {
+                        ForEach(0 ..< tipPercentages.count) {
+                            Text("\(self.tipPercentages[$0])%")
+                        }
+                    }
+                    .pickerStyle(SegmentedPickerStyle())
                 }
                 
                 Section {
-                    TextField("Enter your name...", text: $name)
-                    Text("Your name is \(name)")
+                    Text("$\(totalPerPerson, specifier: "%.2f")")
                 }
-                
-                Picker("Select your student", selection: $selectedStudent) {
-                    ForEach(0 ..< students.count) {
-                        Text(self.students[$0])
-                    }
-                }
+                .navigationBarTitle("WeSplit")
             }
-            .navigationBarTitle(Text("SwiftUI"))
         }
     }
 }

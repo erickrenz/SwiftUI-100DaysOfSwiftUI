@@ -140,3 +140,9 @@ Now that I have reviewed the Swift programming language, it is time to put my sk
 * Modifying Program State
 * Binding State to User Interface Controls
 * Creating Views in a Loop
+
+#### [Day 17](https://www.hackingwithswift.com/100/swiftui/17)  : Project 1, Part 2 *(April 11)*
+* Reading Text from the User with TextField
+* Creating Pickers in a Form
+* Adding a Segmented Control for Tip Percentages
+* Calculating the Total Per-Person
