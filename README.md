@@ -146,3 +146,8 @@ Now that I have reviewed the Swift programming language, it is time to put my sk
 * Creating Pickers in a Form
 * Adding a Segmented Control for Tip Percentages
 * Calculating the Total Per-Person
+
+#### [Day 18](https://www.hackingwithswift.com/100/swiftui/18)  : Project 1, Part 3 *(April 12)*
+* WeSplit: Wrap Up
+* Review for Project 1: WeSplit
+* Completed 3 Challenges for Writing my own Code
