@@ -151,3 +151,8 @@ Now that I have reviewed the Swift programming language, it is time to put my sk
 * WeSplit: Wrap Up
 * Review for Project 1: WeSplit
 * Completed 3 Challenges for Writing my own Code
+
+#### [Day 19](https://www.hackingwithswift.com/100/swiftui/19)  : Challenge Day *(April 13)*
+* UnitCircle App: https://github.com/erickrenz/SwiftUI-UnitCircle
+* Created my own app from scratch
+* Built an App to Handle Unit conversions
