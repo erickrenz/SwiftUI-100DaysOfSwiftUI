@@ -156,3 +156,11 @@ Now that I have reviewed the Swift programming language, it is time to put my sk
 * UnitCircle App: https://github.com/erickrenz/SwiftUI-UnitCircle
 * Created my own app from scratch
 * Built an App to Handle Unit conversions
+
+#### [Day 20](https://www.hackingwithswift.com/100/swiftui/20)  : Project 2 Part 1 *(April 14)*
+* Guess the Flag: Introduction
+* Using Stacks to Arrange Views
+* Colors and Frames
+* Gradients
+* Buttons and Images
+* Showing Alert Messages
