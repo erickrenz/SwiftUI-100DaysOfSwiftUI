@@ -164,3 +164,8 @@ Now that I have reviewed the Swift programming language, it is time to put my sk
 * Gradients
 * Buttons and Images
 * Showing Alert Messages
+
+#### [Day 21](https://www.hackingwithswift.com/100/swiftui/20)  : Project 2 Part 2 *(April 15)*
+* Stacking Up Buttons
+* Showing the Players Score with an Alert
+* Styling our flags
