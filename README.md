@@ -169,3 +169,7 @@ Now that I have reviewed the Swift programming language, it is time to put my sk
 * Stacking Up Buttons
 * Showing the Players Score with an Alert
 * Styling our flags
+
+#### [Day 22](https://www.hackingwithswift.com/100/swiftui/20)  : Project 2 Part 3 *(April 15)*
+* Guess the Flag: Wrap Up
+* Review for Project 2: Guess the Flag
