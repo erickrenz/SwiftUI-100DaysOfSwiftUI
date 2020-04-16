@@ -157,7 +157,7 @@ Now that I have reviewed the Swift programming language, it is time to put my sk
 * Created my own app from scratch
 * Built an App to Handle Unit conversions
 
-#### [Day 20](https://www.hackingwithswift.com/100/swiftui/20)  : Project 2 Part 1 *(April 14)*
+#### [Day 20](https://www.hackingwithswift.com/100/swiftui/20)  : Project 2, Part 1 *(April 14)*
 * Guess the Flag: Introduction
 * Using Stacks to Arrange Views
 * Colors and Frames
@@ -165,11 +165,24 @@ Now that I have reviewed the Swift programming language, it is time to put my sk
 * Buttons and Images
 * Showing Alert Messages
 
-#### [Day 21](https://www.hackingwithswift.com/100/swiftui/20)  : Project 2 Part 2 *(April 15)*
+#### [Day 21](https://www.hackingwithswift.com/100/swiftui/21)  : Project 2, Part 2 *(April 15)*
 * Stacking Up Buttons
 * Showing the Players Score with an Alert
 * Styling our flags
 
-#### [Day 22](https://www.hackingwithswift.com/100/swiftui/20)  : Project 2 Part 3 *(April 15)*
+#### [Day 22](https://www.hackingwithswift.com/100/swiftui/22)  : Project 2, Part 3 *(April 15)*
 * Guess the Flag: Wrap Up
 * Review for Project 2: Guess the Flag
+
+#### [Day 23](https://www.hackingwithswift.com/100/swiftui/23)  : Project 3, Part 1 *(April 16)*
+* Views and Modifiers: Introduction
+* Why does SwiftUI use Structs for Views?
+* What is behind the main SwiftUI View
+* Why Modifier Order Matters
+* Why does SwiftUI use "some View" for its View Type
+* Conditional Modifiers
+* Environment Modifiers
+* Views as Properties
+* View Comparison
+* Custom Modifiers
+* Custom Conatiners
