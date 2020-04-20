@@ -46,13 +46,13 @@ struct ContentView: View {
                     
                     TextField("Number of People", text: $numberOfPeople)
                         .keyboardType(.decimalPad)
-                     /*
-                    Picker("Number of People", selection: $numberOfPeople) {
-                        ForEach(2 ..< 100) {
-                            Text("\($0) people")
-                        }
-                    }
-                    */
+                    /*
+                     Picker("Number of People", selection: $numberOfPeople) {
+                     ForEach(2 ..< 100) {
+                     Text("\($0) people")
+                     }
+                     }
+                     */
                 }
                 
                 Section(header: Text("How much tip do you want to leave?")) {
@@ -65,7 +65,12 @@ struct ContentView: View {
                 }
                 
                 Section(header: Text("Total After Tip:")) {
-                    Text("$\(totalAfterTip, specifier: "%.2f")")
+                    if totalAfterTip == Double(checkAmmount) {
+                        Text("$\(totalAfterTip, specifier: "%.2f")")
+                            .foregroundColor(.red)
+                    } else {
+                        Text("$\(totalAfterTip, specifier: "%.2f")")
+                    }
                 }
                 
                 Section(header: Text("Amount Per Person:")) {
