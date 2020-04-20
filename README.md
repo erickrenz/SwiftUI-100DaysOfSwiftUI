@@ -129,7 +129,6 @@ These first 15 days which were considered an "introduction" to the Swift program
 #### [Day 14](https://www.hackingwithswift.com/100/swiftui/14)  : Swift Review, Part 2 *(April 9)*
 #### [Day 15](https://www.hackingwithswift.com/100/swiftui/15)  : Swift Review, Part 3 *(April 9)*
 
----
 ### Days 16-25: Projects 1-3 ~ Starting SwiftUI
 Now that I have reviewed the Swift programming language, it is time to put my skills to the test while we build our first three simple apps in this program.
 
@@ -197,7 +196,6 @@ Now that I have reviewed the Swift programming language, it is time to put my sk
 * Key Points
 * Challenges
 
----
 ### Days 26-35: Projects 4-6 ~ Expanding your Skills
 These next few projects will build upon my to the Swift programming skills by adding Machine Learning to the collection.
 
@@ -207,3 +205,8 @@ These next few projects will build upon my to the Swift programming skills by ad
 * Selecting Dates and Times with DatePicker
 * Working with Dates
 * Training a Model with Create ML
+
+#### [Day 27](https://www.hackingwithswift.com/100/swiftui/27)  : Project 4, Part 2 *(April 20)*
+* Buiilding a Basic Layout
+* Connecting SwiftUI to Core ML
+* Cleaning up the User Interface
