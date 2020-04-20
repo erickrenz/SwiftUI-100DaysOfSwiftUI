@@ -190,3 +190,8 @@ Now that I have reviewed the Swift programming language, it is time to put my sk
 #### [Day 24](https://www.hackingwithswift.com/100/swiftui/24)  : Project 3, Part 2 *(April 20)*
 * Views and Modifiers: Wrap Up
 * Review for Project 3: Views and Modifiers
+
+#### [Day 25](https://www.hackingwithswift.com/100/swiftui/25)  : Milestone: Projects 1-3 *(April 20)*
+* What I Learned
+* Key Points
+* Challenges
