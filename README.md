@@ -4,7 +4,7 @@ Tracking my progress of Hacking with Swift's [100 Days of SwiftUI](https://www.h
 ## Course Overview
 - [Days 1-15](#days-1-15-review-of-swift-programming-language): Review of Swift Programming Language
 - [Days 16-25](#days-16-25-projects-1-3--starting-swiftui): Projects 1-3 ~ Starting SwiftUI
-- Days 26-35: Projects 4-6 ~ Expanding your Skills
+- [Days 26-35](#days-26-35-projects-4-6--expanding-your-skills): Projects 4-6 ~ Expanding your Skills
 - Days 36-48: Projects 7-9 ~ Scaling up to Bigger Apps
 - Days 49-61: Projects 10-12 ~ Focus on Data
 - Days 62-78: Projects 13-15 ~ Views and View Controllers
@@ -129,6 +129,7 @@ These first 15 days which were considered an "introduction" to the Swift program
 #### [Day 14](https://www.hackingwithswift.com/100/swiftui/14)  : Swift Review, Part 2 *(April 9)*
 #### [Day 15](https://www.hackingwithswift.com/100/swiftui/15)  : Swift Review, Part 3 *(April 9)*
 
+---
 ### Days 16-25: Projects 1-3 ~ Starting SwiftUI
 Now that I have reviewed the Swift programming language, it is time to put my skills to the test while we build our first three simple apps in this program.
 
@@ -195,3 +196,14 @@ Now that I have reviewed the Swift programming language, it is time to put my sk
 * What I Learned
 * Key Points
 * Challenges
+
+---
+### Days 26-35: Projects 4-6 ~ Expanding your Skills
+These next few projects will build upon my to the Swift programming skills by adding Machine Learning to the collection.
+
+#### [Day 26](https://www.hackingwithswift.com/100/swiftui/26)  : Project 4, Part 1 *(April 20)*
+* BetterRest: Introduction
+* Entering Numbers with Stepper
+* Selecting Dates and Times with DatePicker
+* Working with Dates
+* Training a Model with Create ML
