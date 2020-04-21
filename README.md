@@ -210,3 +210,7 @@ These next few projects will build upon my to the Swift programming skills by ad
 * Buiilding a Basic Layout
 * Connecting SwiftUI to Core ML
 * Cleaning up the User Interface
+
+#### [Day 28](https://www.hackingwithswift.com/100/swiftui/28)  : Project 4, Part 3 *(April 21)*
+* BetterRest: Wrap Up
+* Review for Project 4: BetterRest
