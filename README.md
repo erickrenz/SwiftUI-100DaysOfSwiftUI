@@ -214,3 +214,9 @@ These next few projects will build upon my to the Swift programming skills by ad
 #### [Day 28](https://www.hackingwithswift.com/100/swiftui/28)  : Project 4, Part 3 *(April 21)*
 * BetterRest: Wrap Up
 * Review for Project 4: BetterRest
+
+#### [Day 29](https://www.hackingwithswift.com/100/swiftui/29)  : Project 5, Part 1 *(April 22)*
+* WordScramble: Introduction
+* Introducing List - Your Best Friend
+* Loading Resources from Your App Bundle
+* Working with Strings
