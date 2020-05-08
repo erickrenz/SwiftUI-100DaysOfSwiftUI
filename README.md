@@ -220,3 +220,8 @@ These next few projects will build upon my to the Swift programming skills by ad
 * Introducing List - Your Best Friend
 * Loading Resources from Your App Bundle
 * Working with Strings
+
+#### [Day 30](https://www.hackingwithswift.com/100/swiftui/29)  : Project 5, Part 2 *(May 8)*
+* Adding to a list of words
+* Running code when our app launches
+* Validating words with UIChecker
